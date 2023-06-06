@@ -1,2 +1,2 @@
 # Front-End-Demo-Apps
-Front-end applications for demo purposes.
+Demo front-end apps built with HTML, CSS and JS, used while teaching web to showcase vanilla front-end.
